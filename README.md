@@ -26,11 +26,13 @@ A small Express.js + TypeScript API demonstrating secure JWT authentication and 
    ```bash
    cd secure-mini-api(Cloned Directory)
 2. **Install dependencies**
+   ```bash
    npm install
-3. **Update the .env file**
-4. **Running the API**
+4. **Update the .env file**
+5. **Running the API**
+   ```bash
    npm run dev
-5. **Verify all Endpoints Via Command Prompt/Postman**
+7. **Verify all Endpoints Via Command Prompt/Postman**
 ## Project structure
     src/
     ├── data/
