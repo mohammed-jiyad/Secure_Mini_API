@@ -24,8 +24,7 @@ A small Express.js + TypeScript API demonstrating secure JWT authentication and 
 
 1. **Extract the ZIP or clone the repository**
    ```bash
-   unzip secure-mini-api-ts.zip
-   cd secure-mini-api-ts
+   cd secure-mini-api(Cloned Directory)
 2. **Install dependencies**
    npm install
 3. **Update the .env file**
