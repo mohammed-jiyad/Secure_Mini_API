@@ -49,3 +49,4 @@ A small Express.js + TypeScript API demonstrating secure JWT authentication and 
     ├── server.ts
     └── types.ts
     .env.example
+Rate limiting has been added using express-rate-limit to protect the /api/v1/login endpoint, restricting each IP to 20 login attempts every 15 minutes to help prevent brute-force attacks.
