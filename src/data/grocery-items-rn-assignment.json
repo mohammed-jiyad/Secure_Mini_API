@@ -1,0 +1,1892 @@
+{
+  "almond": {
+    "name": "Almond",
+    "slug": "almond",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/almond.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Almond is a popular item in the fresh produce & fruits category!"
+  },
+  "apple": {
+    "name": "Apple",
+    "slug": "apple",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/apple.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Apple is a popular item in the fresh produce & fruits category!"
+  },
+  "avocado": {
+    "name": "Avocado",
+    "slug": "avocado",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/avocado.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Avocado is a popular item in the fresh produce & fruits category!"
+  },
+  "banana": {
+    "name": "Banana",
+    "slug": "banana",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/banana.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Banana is a popular item in the fresh produce & fruits category!"
+  },
+  "bell-pepper": {
+    "name": "Bell Pepper",
+    "slug": "bell-pepper",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bell-pepper.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bell Pepper is a popular item in the fresh produce & fruits category!"
+  },
+  "betel-leaf": {
+    "name": "Betel Leaf",
+    "slug": "betel-leaf",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/betel-leaf.png",
+    "defaultQuantity": 1,
+    "unit": "bunch",
+    "funFact": "Did you know? Betel Leaf is a popular item in the fresh produce & fruits category!"
+  },
+  "blueberry": {
+    "name": "Blueberry",
+    "slug": "blueberry",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/blueberry.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Blueberry is a popular item in the fresh produce & fruits category!"
+  },
+  "bottle-gourd": {
+    "name": "Bottle Gourd",
+    "slug": "bottle-gourd",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bottle-gourd.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bottle Gourd is a popular item in the fresh produce & fruits category!"
+  },
+  "cabbage": {
+    "name": "Cabbage",
+    "slug": "cabbage",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cabbage.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cabbage is a popular item in the fresh produce & fruits category!"
+  },
+  "capsicum": {
+    "name": "Capsicum",
+    "slug": "capsicum",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/capsicum.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Capsicum is a popular item in the fresh produce & fruits category!"
+  },
+  "carrot": {
+    "name": "Carrot",
+    "slug": "carrot",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/carrot.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Carrot is a popular item in the fresh produce & fruits category!"
+  },
+  "cashew": {
+    "name": "Cashew",
+    "slug": "cashew",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cashew.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cashew is a popular item in the fresh produce & fruits category!"
+  },
+  "chow-chow": {
+    "name": "Chow Chow",
+    "slug": "chow-chow",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chow-chow.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Chow Chow is a popular item in the fresh produce & fruits category!"
+  },
+  "coccinia": {
+    "name": "Coccinia",
+    "slug": "coccinia",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/coccinia.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Coccinia is a popular item in the fresh produce & fruits category!"
+  },
+  "cucumber": {
+    "name": "Cucumber",
+    "slug": "cucumber",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cucumber.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cucumber is a popular item in the fresh produce & fruits category!"
+  },
+  "dates": {
+    "name": "Dates",
+    "slug": "dates",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/dates.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Dates is a popular item in the fresh produce & fruits category!"
+  },
+  "drumstick": {
+    "name": "Drumstick",
+    "slug": "drumstick",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/drumstick.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Drumstick is a popular item in the fresh produce & fruits category!"
+  },
+  "garlic": {
+    "name": "Garlic",
+    "slug": "garlic",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/garlic.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Garlic is a popular item in the fresh produce & fruits category!"
+  },
+  "ginger": {
+    "name": "Ginger",
+    "slug": "ginger",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/ginger.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Ginger is a popular item in the fresh produce & fruits category!"
+  },
+  "kiwi": {
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/kiwi.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Kiwi is a popular item in the fresh produce & fruits category!"
+  },
+  "leafy": {
+    "name": "Leafy",
+    "slug": "leafy",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/leafy.png",
+    "defaultQuantity": 1,
+    "unit": "bunch",
+    "funFact": "Did you know? Leafy is a popular item in the fresh produce & fruits category!"
+  },
+  "lemon": {
+    "name": "Lemon",
+    "slug": "lemon",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/lemon.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Lemon is a popular item in the fresh produce & fruits category!"
+  },
+  "litchi": {
+    "name": "Litchi",
+    "slug": "litchi",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/litchi.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Litchi is a popular item in the fresh produce & fruits category!"
+  },
+  "mango": {
+    "name": "Mango",
+    "slug": "mango",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mango.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Mango is a popular item in the fresh produce & fruits category!"
+  },
+  "mint": {
+    "name": "Mint",
+    "slug": "mint",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mint.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Mint is a popular item in the fresh produce & fruits category!"
+  },
+  "mushroom": {
+    "name": "Mushroom",
+    "slug": "mushroom",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mushroom.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Mushroom is a popular item in the fresh produce & fruits category!"
+  },
+  "musk-melon": {
+    "name": "Musk Melon",
+    "slug": "musk-melon",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/musk-melon.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Musk Melon is a popular item in the fresh produce & fruits category!"
+  },
+  "okra": {
+    "name": "Okra",
+    "slug": "okra",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/okra.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Okra is a popular item in the fresh produce & fruits category!"
+  },
+  "onion": {
+    "name": "Onion",
+    "slug": "onion",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/onion.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Onion is a popular item in the fresh produce & fruits category!"
+  },
+  "papaya": {
+    "name": "Papaya",
+    "slug": "papaya",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/papaya.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Papaya is a popular item in the fresh produce & fruits category!"
+  },
+  "pineapple": {
+    "name": "Pineapple",
+    "slug": "pineapple",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pineapple.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pineapple is a popular item in the fresh produce & fruits category!"
+  },
+  "pista": {
+    "name": "Pista",
+    "slug": "pista",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pista.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pista is a popular item in the fresh produce & fruits category!"
+  },
+  "plums": {
+    "name": "Plums",
+    "slug": "plums",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/plums.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Plums is a popular item in the fresh produce & fruits category!"
+  },
+  "pomegranate": {
+    "name": "Pomegranate",
+    "slug": "pomegranate",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pomegranate.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pomegranate is a popular item in the fresh produce & fruits category!"
+  },
+  "potato": {
+    "name": "Potato",
+    "slug": "potato",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/potato.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Potato is a popular item in the fresh produce & fruits category!"
+  },
+  "pumpkin": {
+    "name": "Pumpkin",
+    "slug": "pumpkin",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pumpkin.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pumpkin is a popular item in the fresh produce & fruits category!"
+  },
+  "spinach": {
+    "name": "Spinach",
+    "slug": "spinach",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/spinach.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Spinach is a popular item in the fresh produce & fruits category!"
+  },
+  "strawberries": {
+    "name": "Strawberries",
+    "slug": "strawberries",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/strawberries.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Strawberries is a popular item in the fresh produce & fruits category!"
+  },
+  "sweet-potato": {
+    "name": "Sweet Potato",
+    "slug": "sweet-potato",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sweet-potato.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Sweet Potato is a popular item in the fresh produce & fruits category!"
+  },
+  "watermelon": {
+    "name": "Watermelon",
+    "slug": "watermelon",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/watermelon.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Watermelon is a popular item in the fresh produce & fruits category!"
+  },
+  "yam": {
+    "name": "Yam",
+    "slug": "yam",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/yam.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Yam is a popular item in the fresh produce & fruits category!"
+  },
+  "amchur-powder": {
+    "name": "Amchur Powder",
+    "slug": "amchur-powder",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/amchur-powder.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Amchur Powder is a popular item in the pantry staples & dry goods category!"
+  },
+  "atta": {
+    "name": "Atta",
+    "slug": "atta",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/atta.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Atta is a popular item in the pantry staples & dry goods category!"
+  },
+  "baking-paper": {
+    "name": "Baking Paper",
+    "slug": "baking-paper",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/baking-paper.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Baking Paper is a popular item in the pantry staples & dry goods category!"
+  },
+  "bay-leaf": {
+    "name": "Bay Leaf",
+    "slug": "bay-leaf",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bay-leaf.png",
+    "defaultQuantity": 1,
+    "unit": "bunch",
+    "funFact": "Did you know? Bay Leaf is a popular item in the pantry staples & dry goods category!"
+  },
+  "beans": {
+    "name": "Beans",
+    "slug": "beans",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/beans.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Beans is a popular item in the pantry staples & dry goods category!"
+  },
+  "bread-crumbs": {
+    "name": "Bread Crumbs",
+    "slug": "bread-crumbs",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bread-crumbs.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Bread Crumbs is a popular item in the pantry staples & dry goods category!"
+  },
+  "bread": {
+    "name": "Bread",
+    "slug": "bread",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bread.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Bread is a popular item in the pantry staples & dry goods category!"
+  },
+  "cake-mix": {
+    "name": "Cake Mix",
+    "slug": "cake-mix",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cake-mix.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cake Mix is a popular item in the pantry staples & dry goods category!"
+  },
+  "cardamom": {
+    "name": "Cardamom",
+    "slug": "cardamom",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cardamom.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cardamom is a popular item in the pantry staples & dry goods category!"
+  },
+  "chaat-masala": {
+    "name": "Chaat Masala",
+    "slug": "chaat-masala",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chaat-masala.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chaat Masala is a popular item in the pantry staples & dry goods category!"
+  },
+  "chana-dal": {
+    "name": "Chana Dal",
+    "slug": "chana-dal",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chana-dal.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chana Dal is a popular item in the pantry staples & dry goods category!"
+  },
+  "chickpeas": {
+    "name": "Chickpeas",
+    "slug": "chickpeas",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chickpeas.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Chickpeas is a popular item in the pantry staples & dry goods category!"
+  },
+  "chilli-powder": {
+    "name": "Chilli Powder",
+    "slug": "chilli-powder",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chilli-powder.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chilli Powder is a popular item in the pantry staples & dry goods category!"
+  },
+  "chips": {
+    "name": "Chips",
+    "slug": "chips",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chips.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chips is a popular item in the pantry staples & dry goods category!"
+  },
+  "clove": {
+    "name": "Clove",
+    "slug": "clove",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/clove.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Clove is a popular item in the pantry staples & dry goods category!"
+  },
+  "cocoa-powder": {
+    "name": "Cocoa Powder",
+    "slug": "cocoa-powder",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cocoa-powder.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Cocoa Powder is a popular item in the pantry staples & dry goods category!"
+  },
+  "condensed-milk": {
+    "name": "Condensed Milk",
+    "slug": "condensed-milk",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/condensed-milk.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Condensed Milk is a popular item in the pantry staples & dry goods category!"
+  },
+  "cooking-vinegar": {
+    "name": "Cooking Vinegar",
+    "slug": "cooking-vinegar",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cooking-vinegar.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Cooking Vinegar is a popular item in the pantry staples & dry goods category!"
+  },
+  "coriander-powder": {
+    "name": "Coriander Powder",
+    "slug": "coriander-powder",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/coriander-powder.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Coriander Powder is a popular item in the pantry staples & dry goods category!"
+  },
+  "coriander-seeds": {
+    "name": "Coriander Seeds",
+    "slug": "coriander-seeds",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/coriander-seeds.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Coriander Seeds is a popular item in the pantry staples & dry goods category!"
+  },
+  "corn-flour": {
+    "name": "Corn Flour",
+    "slug": "corn-flour",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/corn-flour.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Corn Flour is a popular item in the pantry staples & dry goods category!"
+  },
+  "dried-red-chilli": {
+    "name": "Dried Red Chilli",
+    "slug": "dried-red-chilli",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/dried-red-chilli.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Dried Red Chilli is a popular item in the pantry staples & dry goods category!"
+  },
+  "fennel": {
+    "name": "Fennel",
+    "slug": "fennel",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/fennel.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Fennel is a popular item in the pantry staples & dry goods category!"
+  },
+  "foil": {
+    "name": "Foil",
+    "slug": "foil",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/foil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Foil is a popular item in the pantry staples & dry goods category!"
+  },
+  "garam-masala": {
+    "name": "Garam Masala",
+    "slug": "garam-masala",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/garam-masala.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Garam Masala is a popular item in the pantry staples & dry goods category!"
+  },
+  "green-dal": {
+    "name": "Green Dal",
+    "slug": "green-dal",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/green-dal.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Green Dal is a popular item in the pantry staples & dry goods category!"
+  },
+  "instant-noodles": {
+    "name": "Instant Noodles",
+    "slug": "instant-noodles",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/instant-noodles.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Instant Noodles is a popular item in the pantry staples & dry goods category!"
+  },
+  "jaggery": {
+    "name": "Jaggery",
+    "slug": "jaggery",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/jaggery.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Jaggery is a popular item in the pantry staples & dry goods category!"
+  },
+  "javetri": {
+    "name": "Javetri",
+    "slug": "javetri",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/javetri.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Javetri is a popular item in the pantry staples & dry goods category!"
+  },
+  "jeera-seeds": {
+    "name": "Jeera Seeds",
+    "slug": "jeera-seeds",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/jeera-seeds.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Jeera Seeds is a popular item in the pantry staples & dry goods category!"
+  },
+  "maida": {
+    "name": "Maida",
+    "slug": "maida",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/maida.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Maida is a popular item in the pantry staples & dry goods category!"
+  },
+  "maggi": {
+    "name": "Maggi",
+    "slug": "maggi",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/maggi.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Maggi is a popular item in the pantry staples & dry goods category!"
+  },
+  "mix-dal": {
+    "name": "Mix Dal",
+    "slug": "mix-dal",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mix-dal.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Mix Dal is a popular item in the pantry staples & dry goods category!"
+  },
+  "mustard-seeds": {
+    "name": "Mustard Seeds",
+    "slug": "mustard-seeds",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mustard-seeds.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Mustard Seeds is a popular item in the pantry staples & dry goods category!"
+  },
+  "oats": {
+    "name": "Oats",
+    "slug": "oats",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/oats.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Oats is a popular item in the pantry staples & dry goods category!"
+  },
+  "pasta": {
+    "name": "Pasta",
+    "slug": "pasta",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pasta.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pasta is a popular item in the pantry staples & dry goods category!"
+  },
+  "rava": {
+    "name": "Rava",
+    "slug": "rava",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/rava.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Rava is a popular item in the pantry staples & dry goods category!"
+  },
+  "basil": {
+    "name": "Basil",
+    "slug": "basil",
+    "category": "Fresh Produce & Fruits",
+    "category-id": "fresh-produce-and-fruits",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/basil.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Basil is a popular item in the fresh produce & fruits category!"
+  },
+  "rice": {
+    "name": "Rice",
+    "slug": "rice",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/rice.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Rice is a popular item in the pantry staples & dry goods category!"
+  },
+  "salt": {
+    "name": "Salt",
+    "slug": "salt",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/salt.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Salt is a popular item in the pantry staples & dry goods category!"
+  },
+  "sambar-powder": {
+    "name": "Sambar Powder",
+    "slug": "sambar-powder",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sambar-powder.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Sambar Powder is a popular item in the pantry staples & dry goods category!"
+  },
+  "star-anise": {
+    "name": "Star Anise",
+    "slug": "star-anise",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/star-anise.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Star Anise is a popular item in the pantry staples & dry goods category!"
+  },
+  "sugar": {
+    "name": "Sugar",
+    "slug": "sugar",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sugar.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Sugar is a popular item in the pantry staples & dry goods category!"
+  },
+  "tamarind": {
+    "name": "Tamarind",
+    "slug": "tamarind",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/tamarind.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Tamarind is a popular item in the pantry staples & dry goods category!"
+  },
+  "toor-dal": {
+    "name": "Toor Dal",
+    "slug": "toor-dal",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/toor-dal.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Toor Dal is a popular item in the pantry staples & dry goods category!"
+  },
+  "turmeric-powder": {
+    "name": "Turmeric Powder",
+    "slug": "turmeric-powder",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/turmeric-powder.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Turmeric Powder is a popular item in the pantry staples & dry goods category!"
+  },
+  "urad-dal": {
+    "name": "Urad Dal",
+    "slug": "urad-dal",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/urad-dal.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Urad Dal is a popular item in the pantry staples & dry goods category!"
+  },
+  "vermicelli": {
+    "name": "Vermicelli",
+    "slug": "vermicelli",
+    "category": "Pantry Staples & Dry Goods",
+    "category-id": "pantry-staples-and-dry-goods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/vermicelli.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Vermicelli is a popular item in the pantry staples & dry goods category!"
+  },
+  "cheese": {
+    "name": "Cheese",
+    "slug": "cheese",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cheese.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Cheese is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "chicken-breast": {
+    "name": "Chicken Breast",
+    "slug": "chicken-breast",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chicken-breast.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chicken Breast is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "chicken-organs": {
+    "name": "Chicken Organs",
+    "slug": "chicken-organs",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chicken-organs.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chicken Organs is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "chicken-thigh": {
+    "name": "Chicken Thigh",
+    "slug": "chicken-thigh",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chicken-thigh.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Chicken Thigh is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "curd": {
+    "name": "Curd",
+    "slug": "curd",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/curd.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Curd is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "eggs": {
+    "name": "Eggs",
+    "slug": "eggs",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/eggs.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Eggs is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "fish": {
+    "name": "Fish",
+    "slug": "fish",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/fish.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Fish is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "milk": {
+    "name": "Milk",
+    "slug": "milk",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/milk.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Milk is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "paneer": {
+    "name": "Paneer",
+    "slug": "paneer",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/paneer.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Paneer is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "soya": {
+    "name": "Soya",
+    "slug": "soya",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/soya.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Soya is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "yogurt": {
+    "name": "Yogurt",
+    "slug": "yogurt",
+    "category": "Dairy, Meat & Fresh Foods",
+    "category-id": "dairy-meat-and-fresh-foods",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/yogurt.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Yogurt is a popular item in the dairy, meat & fresh foods category!"
+  },
+  "biscuits": {
+    "name": "Biscuits",
+    "slug": "biscuits",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/biscuits.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Biscuits is a popular item in the condiments & ready-to-eat category!"
+  },
+  "green-chilli-sauce": {
+    "name": "Green Chilli Sauce",
+    "slug": "green-chilli-sauce",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/green-chilli-sauce.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Green Chilli Sauce is a popular item in the condiments & ready-to-eat category!"
+  },
+  "ketchup": {
+    "name": "Ketchup",
+    "slug": "ketchup",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/ketchup.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Ketchup is a popular item in the condiments & ready-to-eat category!"
+  },
+  "mayonnaise": {
+    "name": "Mayonnaise",
+    "slug": "mayonnaise",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mayonnaise.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Mayonnaise is a popular item in the condiments & ready-to-eat category!"
+  },
+  "nestled": {
+    "name": "Nestled",
+    "slug": "nestled",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/nestled.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Nestled is a popular item in the condiments & ready-to-eat category!"
+  },
+  "pasta-pizza-sauce": {
+    "name": "Pasta Pizza Sauce",
+    "slug": "pasta-pizza-sauce",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pasta-pizza-sauce.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Pasta Pizza Sauce is a popular item in the condiments & ready-to-eat category!"
+  },
+  "red-chilli-sauce": {
+    "name": "Red Chilli Sauce",
+    "slug": "red-chilli-sauce",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/red-chilli-sauce.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Red Chilli Sauce is a popular item in the condiments & ready-to-eat category!"
+  },
+  "salad-dressing": {
+    "name": "Salad Dressing",
+    "slug": "salad-dressing",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/salad-dressing.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Salad Dressing is a popular item in the condiments & ready-to-eat category!"
+  },
+  "sandwich-spread": {
+    "name": "Sandwich Spread",
+    "slug": "sandwich-spread",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sandwich-spread.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Sandwich Spread is a popular item in the condiments & ready-to-eat category!"
+  },
+  "savories": {
+    "name": "Savories",
+    "slug": "savories",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/savories.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Savories is a popular item in the condiments & ready-to-eat category!"
+  },
+  "soy-sauce": {
+    "name": "Soy Sauce",
+    "slug": "soy-sauce",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/soy-sauce.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Soy Sauce is a popular item in the condiments & ready-to-eat category!"
+  },
+  "sweets": {
+    "name": "Sweets",
+    "slug": "sweets",
+    "category": "Condiments & Ready-to-Eat",
+    "category-id": "condiments-and-ready-to-eat",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sweets.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Sweets is a popular item in the condiments & ready-to-eat category!"
+  },
+  "coffee": {
+    "name": "Coffee",
+    "slug": "coffee",
+    "category": "Beverages & Drinks",
+    "category-id": "beverages-and-drinks",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/coffee.png",
+    "defaultQuantity": 100,
+    "unit": "grams",
+    "funFact": "Did you know? Coffee is a popular item in the beverages & drinks category!"
+  },
+  "cool-drink": {
+    "name": "Cool Drink",
+    "slug": "cool-drink",
+    "category": "Beverages & Drinks",
+    "category-id": "beverages-and-drinks",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cool-drink.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cool Drink is a popular item in the beverages & drinks category!"
+  },
+  "diet-coke": {
+    "name": "Diet Coke",
+    "slug": "diet-coke",
+    "category": "Beverages & Drinks",
+    "category-id": "beverages-and-drinks",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/diet-coke.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Diet Coke is a popular item in the beverages & drinks category!"
+  },
+  "tea": {
+    "name": "Tea",
+    "slug": "tea",
+    "category": "Beverages & Drinks",
+    "category-id": "beverages-and-drinks",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/tea.png",
+    "defaultQuantity": 100,
+    "unit": "grams",
+    "funFact": "Did you know? Tea is a popular item in the beverages & drinks category!"
+  },
+  "antacid": {
+    "name": "Antacid",
+    "slug": "antacid",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/antacid.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Antacid is a popular item in the personal care & health category!"
+  },
+  "body-wash": {
+    "name": "Body Wash",
+    "slug": "body-wash",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/body-wash.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Body Wash is a popular item in the personal care & health category!"
+  },
+  "collagen": {
+    "name": "Collagen",
+    "slug": "collagen",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/collagen.png",
+    "defaultQuantity": 30,
+    "unit": "capsules",
+    "funFact": "Did you know? Collagen is a popular item in the personal care & health category!"
+  },
+  "comb": {
+    "name": "Comb",
+    "slug": "comb",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/comb.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Comb is a popular item in the personal care & health category!"
+  },
+  "ear-buds": {
+    "name": "Ear Buds",
+    "slug": "ear-buds",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/ear-buds.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Ear Buds is a popular item in the personal care & health category!"
+  },
+  "essential-oil": {
+    "name": "Essential Oil",
+    "slug": "essential-oil",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/essential-oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Essential Oil is a popular item in the personal care & health category!"
+  },
+  "fish-oil": {
+    "name": "Fish Oil",
+    "slug": "fish-oil",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/fish-oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Fish Oil is a popular item in the personal care & health category!"
+  },
+  "hair-oil": {
+    "name": "Hair Oil",
+    "slug": "hair-oil",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/hair-oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Hair Oil is a popular item in the personal care & health category!"
+  },
+  "hand-sanitiser": {
+    "name": "Hand Sanitiser",
+    "slug": "hand-sanitiser",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/hand-sanitiser.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Hand Sanitiser is a popular item in the personal care & health category!"
+  },
+  "sanitary-pad": {
+    "name": "Sanitary Pad",
+    "slug": "sanitary-pad",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sanitary-pad.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Sanitary Pad is a popular item in the personal care & health category!"
+  },
+  "shampoo": {
+    "name": "Shampoo",
+    "slug": "shampoo",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/shampoo.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Shampoo is a popular item in the personal care & health category!"
+  },
+  "sleep-mask": {
+    "name": "Sleep Mask",
+    "slug": "sleep-mask",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sleep-mask.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Sleep Mask is a popular item in the personal care & health category!"
+  },
+  "soap": {
+    "name": "Soap",
+    "slug": "soap",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/soap.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Soap is a popular item in the personal care & health category!"
+  },
+  "sun-screen": {
+    "name": "Sun Screen",
+    "slug": "sun-screen",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sun-screen.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Sun Screen is a popular item in the personal care & health category!"
+  },
+  "tongue-cleaner": {
+    "name": "Tongue Cleaner",
+    "slug": "tongue-cleaner",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/tongue-cleaner.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Tongue Cleaner is a popular item in the personal care & health category!"
+  },
+  "tooth-paste": {
+    "name": "Tooth Paste",
+    "slug": "tooth-paste",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/tooth-paste.png",
+    "defaultQuantity": 250,
+    "unit": "grams",
+    "funFact": "Did you know? Tooth Paste is a popular item in the personal care & health category!"
+  },
+  "toothbrush": {
+    "name": "Toothbrush",
+    "slug": "toothbrush",
+    "category": "Personal Care & Health",
+    "category-id": "personal-care-and-health",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/toothbrush.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Toothbrush is a popular item in the personal care & health category!"
+  },
+  "bathroom-mop": {
+    "name": "Bathroom Mop",
+    "slug": "bathroom-mop",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bathroom-mop.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bathroom Mop is a popular item in the household cleaning & maintenance category!"
+  },
+  "broom": {
+    "name": "Broom",
+    "slug": "broom",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/broom.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Broom is a popular item in the household cleaning & maintenance category!"
+  },
+  "bucket": {
+    "name": "Bucket",
+    "slug": "bucket",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bucket.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bucket is a popular item in the household cleaning & maintenance category!"
+  },
+  "cleaning-spray": {
+    "name": "Cleaning Spray",
+    "slug": "cleaning-spray",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cleaning-spray.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cleaning Spray is a popular item in the household cleaning & maintenance category!"
+  },
+  "dishwash": {
+    "name": "Dishwash",
+    "slug": "dishwash",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/dishwash.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Dishwash is a popular item in the household cleaning & maintenance category!"
+  },
+  "fabric-conditioner": {
+    "name": "Fabric Conditioner",
+    "slug": "fabric-conditioner",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/fabric-conditioner.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Fabric Conditioner is a popular item in the household cleaning & maintenance category!"
+  },
+  "fabric-whitener": {
+    "name": "Fabric Whitener",
+    "slug": "fabric-whitener",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/fabric-whitener.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Fabric Whitener is a popular item in the household cleaning & maintenance category!"
+  },
+  "floor-cleaner": {
+    "name": "Floor Cleaner",
+    "slug": "floor-cleaner",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/floor-cleaner.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Floor Cleaner is a popular item in the household cleaning & maintenance category!"
+  },
+  "floor-towel": {
+    "name": "Floor Towel",
+    "slug": "floor-towel",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/floor-towel.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Floor Towel is a popular item in the household cleaning & maintenance category!"
+  },
+  "hanger": {
+    "name": "Hanger",
+    "slug": "hanger",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/hanger.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Hanger is a popular item in the household cleaning & maintenance category!"
+  },
+  "hardware": {
+    "name": "Hardware",
+    "slug": "hardware",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/hardware.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Hardware is a popular item in the household cleaning & maintenance category!"
+  },
+  "hooks": {
+    "name": "Hooks",
+    "slug": "hooks",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/hooks.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Hooks is a popular item in the household cleaning & maintenance category!"
+  },
+  "laundry-basket": {
+    "name": "Laundry Basket",
+    "slug": "laundry-basket",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/laundry-basket.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Laundry Basket is a popular item in the household cleaning & maintenance category!"
+  },
+  "laundry-clip": {
+    "name": "Laundry Clip",
+    "slug": "laundry-clip",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/laundry-clip.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Laundry Clip is a popular item in the household cleaning & maintenance category!"
+  },
+  "laundry-detergent": {
+    "name": "Laundry Detergent",
+    "slug": "laundry-detergent",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/laundry-detergent.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Laundry Detergent is a popular item in the household cleaning & maintenance category!"
+  },
+  "lint-roller": {
+    "name": "Lint Roller",
+    "slug": "lint-roller",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/lint-roller.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Lint Roller is a popular item in the household cleaning & maintenance category!"
+  },
+  "mop": {
+    "name": "Mop",
+    "slug": "mop",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mop.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Mop is a popular item in the household cleaning & maintenance category!"
+  },
+  "phenyl": {
+    "name": "Phenyl",
+    "slug": "phenyl",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/phenyl.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Phenyl is a popular item in the household cleaning & maintenance category!"
+  },
+  "room-freshener": {
+    "name": "Room Freshener",
+    "slug": "room-freshener",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/room-freshener.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Room Freshener is a popular item in the household cleaning & maintenance category!"
+  },
+  "reed": {
+    "name": "Reed",
+    "slug": "reed",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/reed.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Reed is a popular item in the household cleaning & maintenance category!"
+  },
+  "sanitizer-spray": {
+    "name": "Sanitizer Spray",
+    "slug": "sanitizer-spray",
+    "category": "Household Cleaning & Maintenance",
+    "category-id": "household-cleaning-and-maintenance",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sanitizer-spray.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Sanitizer Spray is a popular item in the household cleaning & maintenance category!"
+  },
+  "bath-mug": {
+    "name": "Bath Mug",
+    "slug": "bath-mug",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bath-mug.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bath Mug is a popular item in the kitchen & home essentials category!"
+  },
+  "bath-towel": {
+    "name": "Bath Towel",
+    "slug": "bath-towel",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bath-towel.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bath Towel is a popular item in the kitchen & home essentials category!"
+  },
+  "bedsheet": {
+    "name": "Bedsheet",
+    "slug": "bedsheet",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bedsheet.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bedsheet is a popular item in the kitchen & home essentials category!"
+  },
+  "blanket": {
+    "name": "Blanket",
+    "slug": "blanket",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/blanket.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Blanket is a popular item in the kitchen & home essentials category!"
+  },
+  "bowls": {
+    "name": "Bowls",
+    "slug": "bowls",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/bowls.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Bowls is a popular item in the kitchen & home essentials category!"
+  },
+  "camphor": {
+    "name": "Camphor",
+    "slug": "camphor",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/camphor.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Camphor is a popular item in the kitchen & home essentials category!"
+  },
+  "chopping-board": {
+    "name": "Chopping Board",
+    "slug": "chopping-board",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/chopping-board.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Chopping Board is a popular item in the kitchen & home essentials category!"
+  },
+  "cloth-bag": {
+    "name": "Cloth Bag",
+    "slug": "cloth-bag",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cloth-bag.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cloth Bag is a popular item in the kitchen & home essentials category!"
+  },
+  "coconut-oil": {
+    "name": "Coconut Oil",
+    "slug": "coconut-oil",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/coconut-oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Coconut Oil is a popular item in the kitchen & home essentials category!"
+  },
+  "comforter": {
+    "name": "Comforter",
+    "slug": "comforter",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/comforter.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Comforter is a popular item in the kitchen & home essentials category!"
+  },
+  "coriander": {
+    "name": "Coriander",
+    "slug": "coriander",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/coriander.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Coriander is a popular item in the kitchen & home essentials category!"
+  },
+  "curry-leaves": {
+    "name": "Curry Leaves",
+    "slug": "curry-leaves",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/curry-leaves.png",
+    "defaultQuantity": 1,
+    "unit": "bunch",
+    "funFact": "Did you know? Curry Leaves is a popular item in the kitchen & home essentials category!"
+  },
+  "cutlery": {
+    "name": "Cutlery",
+    "slug": "cutlery",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/cutlery.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Cutlery is a popular item in the kitchen & home essentials category!"
+  },
+  "incense-sticks": {
+    "name": "Incense Sticks",
+    "slug": "incense-sticks",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/incense-sticks.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Incense Sticks is a popular item in the kitchen & home essentials category!"
+  },
+  "kitchen-towel": {
+    "name": "Kitchen Towel",
+    "slug": "kitchen-towel",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/kitchen-towel.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Kitchen Towel is a popular item in the kitchen & home essentials category!"
+  },
+  "knife": {
+    "name": "Knife",
+    "slug": "knife",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/knife.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Knife is a popular item in the kitchen & home essentials category!"
+  },
+  "lunch-box": {
+    "name": "Lunch Box",
+    "slug": "lunch-box",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/lunch-box.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Lunch Box is a popular item in the kitchen & home essentials category!"
+  },
+  "mug": {
+    "name": "Mug",
+    "slug": "mug",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/mug.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Mug is a popular item in the kitchen & home essentials category!"
+  },
+  "oil": {
+    "name": "Oil",
+    "slug": "oil",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Oil is a popular item in the kitchen & home essentials category!"
+  },
+  "olive-oil": {
+    "name": "Olive Oil",
+    "slug": "olive-oil",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/olive-oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Olive Oil is a popular item in the kitchen & home essentials category!"
+  },
+  "pillow-cover": {
+    "name": "Pillow Cover",
+    "slug": "pillow-cover",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pillow-cover.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pillow Cover is a popular item in the kitchen & home essentials category!"
+  },
+  "pillow": {
+    "name": "Pillow",
+    "slug": "pillow",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pillow.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pillow is a popular item in the kitchen & home essentials category!"
+  },
+  "plastic-boxes": {
+    "name": "Plastic Boxes",
+    "slug": "plastic-boxes",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/plastic-boxes.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Plastic Boxes is a popular item in the kitchen & home essentials category!"
+  },
+  "plastic-jar": {
+    "name": "Plastic Jar",
+    "slug": "plastic-jar",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/plastic-jar.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Plastic Jar is a popular item in the kitchen & home essentials category!"
+  },
+  "plugin-freshener": {
+    "name": "Plugin Freshener",
+    "slug": "plugin-freshener",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/plugin-freshener.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Plugin Freshener is a popular item in the kitchen & home essentials category!"
+  },
+  "pooja-oil": {
+    "name": "Pooja Oil",
+    "slug": "pooja-oil",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pooja-oil.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Pooja Oil is a popular item in the kitchen & home essentials category!"
+  },
+  "sandalwood": {
+    "name": "Sandalwood",
+    "slug": "sandalwood",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/sandalwood.png",
+    "defaultQuantity": 200,
+    "unit": "grams",
+    "funFact": "Did you know? Sandalwood is a popular item in the kitchen & home essentials category!"
+  },
+  "water-bottle": {
+    "name": "Water Bottle",
+    "slug": "water-bottle",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/water-bottle.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Water Bottle is a popular item in the kitchen & home essentials category!"
+  },
+  "wick": {
+    "name": "Wick",
+    "slug": "wick",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/wick.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Wick is a popular item in the kitchen & home essentials category!"
+  },
+  "zip-lock": {
+    "name": "Zip Lock",
+    "slug": "zip-lock",
+    "category": "Kitchen & Home Essentials",
+    "category-id": "kitchen-and-home-essentials",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/zip-lock.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Zip Lock is a popular item in the kitchen & home essentials category!"
+  },
+  "litter-spray": {
+    "name": "Litter Spray",
+    "slug": "litter-spray",
+    "category": "Pet Care",
+    "category-id": "pet-care",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/litter-spray.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Litter Spray is a popular item in the pet care category!"
+  },
+  "litter": {
+    "name": "Litter",
+    "slug": "litter",
+    "category": "Pet Care",
+    "category-id": "pet-care",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/litter.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Litter is a popular item in the pet care category!"
+  },
+  "pet-ear-cleaner": {
+    "name": "Pet Ear Cleaner",
+    "slug": "pet-ear-cleaner",
+    "category": "Pet Care",
+    "category-id": "pet-care",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pet-ear-cleaner.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pet Ear Cleaner is a popular item in the pet care category!"
+  },
+  "pet-shampoo": {
+    "name": "Pet Shampoo",
+    "slug": "pet-shampoo",
+    "category": "Pet Care",
+    "category-id": "pet-care",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pet-shampoo.png",
+    "defaultQuantity": 1000,
+    "unit": "ml",
+    "funFact": "Did you know? Pet Shampoo is a popular item in the pet care category!"
+  },
+  "pet-wipes": {
+    "name": "Pet Wipes",
+    "slug": "pet-wipes",
+    "category": "Pet Care",
+    "category-id": "pet-care",
+    "iconUrl": "https://raw.githubusercontent.com/lokeswarisatyanarayanan/nestled-icons/main/pet-wipes.png",
+    "defaultQuantity": 1,
+    "unit": "pieces",
+    "funFact": "Did you know? Pet Wipes is a popular item in the pet care category!"
+  }
+}
