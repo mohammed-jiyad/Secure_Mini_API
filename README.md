@@ -29,7 +29,10 @@ A small Express.js + TypeScript API demonstrating secure JWT authentication and 
    ```bash
    npm install
 4. **Update the .env file**
-5. **Running the API**
+   Add New JWT Secret
+   ```bash
+   openssl rand -base64 48
+6. **Running the API**
    ```bash
    npm run dev
 7. **Verify all Endpoints Via Command Prompt/Postman**
