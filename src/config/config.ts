@@ -1,4 +1,4 @@
-// src/config/config.ts
+
 import 'dotenv/config';
 
 export const env = {
