@@ -1,3 +1,4 @@
+
 import axios from "axios";
 import { env } from "../config/config";
 
@@ -8,6 +9,7 @@ export async function exchangeAccessToken(code: string, shop: string): Promise<s
     client_id: env.SHOPIFY_API_KEY,
     client_secret: env.SHOPIFY_API_SECRET,
     code,
+    redirect_uri: env.SHOPIFY_REDIRECT_URI, // ✅ Add this
   });
 
   return response.data.access_token;

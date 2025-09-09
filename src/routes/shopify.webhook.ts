@@ -1,18 +1,24 @@
+
 import express from "express";
 import { createHmac } from "crypto";
 import dotenv from "dotenv";
+
 dotenv.config();
 const router = express.Router();
+import { Request, Response, NextFunction } from "express";
+import crypto from "crypto";
 
+
+// 🔐 Verify webhook authenticity
 function verifyShopifyHmac(
   req: express.Request & { rawBody?: string },
   res: express.Response,
   next: express.NextFunction
 ) {
-  if (process.env.NODE_ENV === "development") {
-    console.log("⚠️ Skipping HMAC check in development mode");
-    return next();
-  }
+  // if (process.env.NODE_ENV === "development") {
+  //   console.log("⚠️ Skipping HMAC check in development mode");
+  //   return next();
+  // }
 
   const hmac = req.headers["x-shopify-hmac-sha256"] as string;
   const body = req.rawBody || "";
@@ -28,17 +34,21 @@ function verifyShopifyHmac(
 }
 
 
-
+// 🟢 Product created
 router.post(
   "/webhook/products/create",
   express.json({ type: "*/*", verify: (req: any, _res, buf) => (req.rawBody = buf.toString()) }),
   verifyShopifyHmac,
   async (req, res) => {
-    console.log("📦 Product Created:", req.body);
+    console.log("Product Created:", req.body);
     res.status(200).send("Webhook received");
   }
 );
 
+
+
+
+// 🟡 Product updated
 router.post(
   "/webhook/products/update",
   express.json({ type: "*/*", verify: (req: any, _res, buf) => (req.rawBody = buf.toString()) }),
@@ -49,6 +59,7 @@ router.post(
   }
 );
 
+// 🔴 Product deleted
 router.post(
   "/webhook/products/delete",
   express.json({ type: "*/*", verify: (req: any, _res, buf) => (req.rawBody = buf.toString()) }),
@@ -58,5 +69,6 @@ router.post(
     res.status(200).send("Webhook received");
   }
 );
+
 
 export default router;
