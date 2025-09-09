@@ -9,14 +9,14 @@ import { Request, Response, NextFunction } from "express";
 import crypto from "crypto";
 
 
-// 🔐 Verify webhook authenticity
+// Verify webhook authenticity
 function verifyShopifyHmac(
   req: express.Request & { rawBody?: string },
   res: express.Response,
   next: express.NextFunction
 ) {
   // if (process.env.NODE_ENV === "development") {
-  //   console.log("⚠️ Skipping HMAC check in development mode");
+  //   console.log("Skipping HMAC check in development mode");
   //   return next();
   // }
 
@@ -34,7 +34,7 @@ function verifyShopifyHmac(
 }
 
 
-// 🟢 Product created
+// Product created
 router.post(
   "/webhook/products/create",
   express.json({ type: "*/*", verify: (req: any, _res, buf) => (req.rawBody = buf.toString()) }),
@@ -48,24 +48,24 @@ router.post(
 
 
 
-// 🟡 Product updated
+// Product updated
 router.post(
   "/webhook/products/update",
   express.json({ type: "*/*", verify: (req: any, _res, buf) => (req.rawBody = buf.toString()) }),
   verifyShopifyHmac,
   async (req, res) => {
-    console.log("🔄 Product Updated:", req.body);
+    console.log("Product Updated:", req.body);
     res.status(200).send("Webhook received");
   }
 );
 
-// 🔴 Product deleted
+// Product deleted
 router.post(
   "/webhook/products/delete",
   express.json({ type: "*/*", verify: (req: any, _res, buf) => (req.rawBody = buf.toString()) }),
   verifyShopifyHmac,
   async (req, res) => {
-    console.log("❌ Product Deleted:", req.body);
+    console.log("Product Deleted:", req.body);
     res.status(200).send("Webhook received");
   }
 );
