@@ -9,7 +9,7 @@ export async function exchangeAccessToken(code: string, shop: string): Promise<s
     client_id: env.SHOPIFY_API_KEY,
     client_secret: env.SHOPIFY_API_SECRET,
     code,
-    redirect_uri: env.SHOPIFY_REDIRECT_URI, // ✅ Add this
+    redirect_uri: env.SHOPIFY_REDIRECT_URI, 
   });
 
   return response.data.access_token;
