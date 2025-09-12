@@ -27,13 +27,13 @@ router.get("/auth/callback", async (req, res) => {
   }
 
   try {
-    // 1️⃣ Exchange code → token
+    // Exchange code → token
     const token = await exchangeAccessToken(code as string, shop as string);
 
-    // 2️⃣ Fetch initial products
+    // Fetch initial products
     const products = await fetchProducts(shop as string, token);
 
-    // 3️⃣ Register webhooks
+    // Register webhooks
     await createWebhook(
       shop as string,
       token,

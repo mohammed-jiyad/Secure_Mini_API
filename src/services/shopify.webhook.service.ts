@@ -19,7 +19,7 @@ export async function createWebhook(
     );
 
     if (found) {
-      console.log(`⚠️ Webhook already exists for ${topic}: ID ${found.id}`);
+      console.log(`Webhook already exists for ${topic}: ID ${found.id}`);
       return found;
     }
 
@@ -35,11 +35,11 @@ export async function createWebhook(
       }
     );
 
-    console.log(`✅ Webhook created for ${topic}: ID ${response.data.webhook.id}`);
+    console.log(`Webhook created for ${topic}: ID ${response.data.webhook.id}`);
     return response.data.webhook;
   } catch (err: any) {
     console.error(
-      "❌ Webhook creation failed:",
+      "Webhook creation failed:",
       err.response?.data || err.message
     );
     throw err;
